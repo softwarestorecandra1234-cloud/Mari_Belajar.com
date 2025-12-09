@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><!--Code Responsipe-->
         
         <title>Mari Belajar</title>
-        <link rel="stylesheet" href="css/style_beranda.css"><!--CSS Eksternal-->
+        <link rel="stylesheet" href="style_beranda.css"><!--CSS Eksternal-->
         <link rel="stylesheet" href="css/style_login.css"><!--CSS Eksternal-->
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'><!--css Media sosial-->
       
@@ -913,4 +913,5 @@ window.onclick = function(event) {
 
     </script>
 <script src="script.js"></script>
+
 </html>
